@@ -80,7 +80,7 @@ const Index = () => {
               <PlayCircle className="h-5 w-5" />
             </div>
             <div>
-              <p className="text-sm uppercase tracking-[0.3em] text-muted-foreground">Baseline</p>
+              <p className="text-sm uppercase tracking-[0.3em] text-muted-foreground">Vicky</p>
               <p className="text-lg font-semibold">Tennis Coaching</p>
             </div>
           </div>
@@ -166,7 +166,7 @@ const Index = () => {
                 <Button className="w-full">Request Availability</Button>
                 <div className="flex items-center gap-2 text-xs text-muted-foreground">
                   <CheckCircle2 className="h-4 w-4 text-primary" />
-                  Sessions at Stonebridge Tennis Center
+                  Sessions at Vicky Tennis Center
                 </div>
               </CardContent>
             </Card>
@@ -325,7 +325,7 @@ const Index = () => {
             <Card className="border-border/60 bg-primary/10">
               <CardContent className="space-y-3 p-6">
                 <MapPin className="h-5 w-5 text-primary" />
-                <p className="text-lg font-semibold">Stonebridge Tennis Center</p>
+                <p className="text-lg font-semibold">Vicky Tennis Center</p>
                 <p className="text-sm text-muted-foreground">7420 Ridgeway Blvd, Austin, TX</p>
               </CardContent>
             </Card>
@@ -340,7 +340,7 @@ const Index = () => {
               <CardContent className="space-y-3 p-6">
                 <Clock className="h-5 w-5 text-primary" />
                 <p className="text-lg font-semibold">Contact</p>
-                <p className="text-sm text-muted-foreground">hello@baselinecoaching.com</p>
+                <p className="text-sm text-muted-foreground">hello@vickycoaching.com</p>
               </CardContent>
             </Card>
           </div>
@@ -362,7 +362,7 @@ const Index = () => {
                 <div className="space-y-4 text-sm">
                   <div>
                     <p className="text-secondary-foreground/70">Email</p>
-                    <p className="font-semibold">coaching@baselinecoaching.com</p>
+                    <p className="font-semibold">coaching@vickycoaching.com</p>
                   </div>
                   <div>
                     <p className="text-secondary-foreground/70">Phone</p>
@@ -387,7 +387,7 @@ const Index = () => {
 
       <footer className="border-t border-border bg-background py-8">
         <div className="mx-auto flex max-w-6xl flex-col gap-4 px-4 text-sm text-muted-foreground md:flex-row md:items-center md:justify-between md:px-8">
-          <p>© 2026 Baseline Tennis Coaching. All rights reserved.</p>
+          <p>© 2026 Vicky Tennis Coaching. All rights reserved.</p>
           <div className="flex gap-4">
             <span>Instagram</span>
             <span>Youtube</span>
